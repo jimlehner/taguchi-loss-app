@@ -31,7 +31,7 @@ st.set_page_config(
 
 # --- HEADER ---
 st.title("Taguchi Loss Calculator")
-st.markdown("### A web app for calculating the economic loss due to poor quality from [The Broken Quality Initiative](https://www.brokenquality.com/)")
+st.markdown("### A web app for calculating the economic costs of poor quality from [The Broken Quality Initiative](https://www.brokenquality.com/)")
 
 st.markdown(
     """
