@@ -1,4 +1,4 @@
-# Taguchi Loss Calculator
+# Taguchi Loss Web Application
 
 An interactive web application for calculating the economic loss of poor quality using the Taguchi loss function. Built as part of [The Broken Quality Initiative](https://www.brokenquality.com/).
 
